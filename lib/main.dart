@@ -16,6 +16,9 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  // receive data from the FirstScreen as a parameter
+  
+
   @override
   Widget build(BuildContext context) {
     //Gonna have a special widget here
